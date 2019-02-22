@@ -3,6 +3,7 @@
     justify-content: space-between;
     flex-wrap: wrap;
     margin: 120px auto;
+    align-items: stretch;
 }
 
 .icons-element{
